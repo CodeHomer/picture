@@ -1,0 +1,25 @@
+{
+  "name": "picture",
+  "version": "1.0.0",
+  "description": "picture",
+  "main": "index.js",
+  "dependencies": {
+    "@matrixage/picpic": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "picpic init",
+    "build": "picpic build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeHomer/picture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeHomer/picture/issues"
+  },
+  "homepage": "https://github.com/CodeHomer/picture#readme"
+}
